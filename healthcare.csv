@@ -1,0 +1,1001 @@
+patient_id,age,gender,diagnosis,length_of_stay,treatment_cost,readmitted
+1001,69,M,Heart Disease,14,36840,1
+1002,32,F,Diabetes,11,35430,0
+1003,78,F,Heart Disease,5,26091,0
+1004,38,M,Hypertension,3,35983,1
+1005,41,M,Diabetes,9,26989,1
+1006,20,M,Asthma,11,12915,0
+1007,39,M,Heart Disease,14,45552,1
+1008,70,F,Cancer,14,21990,0
+1009,19,F,Cancer,9,27734,0
+1010,47,M,Hypertension,4,17824,0
+1011,55,F,Cancer,11,39081,1
+1012,19,F,Heart Disease,4,14033,1
+1013,81,F,Heart Disease,12,45736,0
+1014,77,F,Cancer,8,19241,0
+1015,38,M,Heart Disease,2,8939,0
+1016,50,M,Hypertension,9,38063,1
+1017,75,F,Diabetes,13,37464,1
+1018,39,M,Hypertension,14,14185,0
+1019,66,M,Hypertension,6,30045,1
+1020,76,M,Heart Disease,9,47769,1
+1021,59,F,Diabetes,8,22167,0
+1022,77,F,Heart Disease,15,39412,0
+1023,32,F,Asthma,15,24625,0
+1024,79,M,Heart Disease,7,42188,0
+1025,79,F,Heart Disease,13,30076,0
+1026,64,F,Heart Disease,14,47605,0
+1027,79,M,Diabetes,1,22029,1
+1028,68,F,Heart Disease,14,25973,0
+1029,72,F,Diabetes,12,42121,0
+1030,81,M,Cancer,3,34433,0
+1031,20,M,Asthma,11,46309,0
+1032,68,M,Diabetes,14,4932,0
+1033,24,F,Cancer,2,47254,0
+1034,38,F,Diabetes,5,4757,0
+1035,56,F,Diabetes,15,33722,0
+1036,35,M,Asthma,5,40853,0
+1037,21,M,Hypertension,5,41405,0
+1038,77,F,Hypertension,4,4116,1
+1039,31,F,Diabetes,5,46527,0
+1040,26,M,Heart Disease,3,14691,0
+1041,70,M,Cancer,12,3492,1
+1042,19,M,Heart Disease,1,30882,0
+1043,77,M,Heart Disease,5,11811,0
+1044,61,F,Diabetes,13,30808,1
+1045,25,M,Diabetes,9,27272,0
+1046,64,F,Diabetes,13,31399,0
+1047,52,F,Diabetes,9,9474,1
+1048,53,F,Hypertension,4,29956,1
+1049,67,M,Diabetes,3,45506,1
+1050,21,M,Hypertension,1,16979,0
+1051,19,M,Hypertension,2,47523,0
+1052,23,M,Diabetes,8,45565,0
+1053,71,F,Asthma,1,31328,0
+1054,21,M,Cancer,8,15867,0
+1055,71,M,Heart Disease,13,28851,0
+1056,80,F,Hypertension,7,34279,1
+1057,35,M,Cancer,15,33527,0
+1058,61,F,Asthma,8,10866,0
+1059,51,F,Heart Disease,12,18449,0
+1060,79,F,Heart Disease,6,13685,0
+1061,31,F,Hypertension,12,26544,0
+1062,65,F,Diabetes,14,8451,0
+1063,32,F,Asthma,15,24642,0
+1064,79,F,Hypertension,15,44316,0
+1065,57,F,Asthma,9,42954,1
+1066,70,M,Diabetes,3,41870,1
+1067,41,M,Diabetes,10,34030,0
+1068,43,M,Hypertension,4,33873,0
+1069,77,M,Diabetes,13,3619,1
+1070,58,F,Cancer,6,36650,1
+1071,46,M,Heart Disease,8,28372,0
+1072,32,F,Hypertension,5,6642,1
+1073,62,M,Asthma,3,31001,0
+1074,82,M,Cancer,6,37064,1
+1075,26,M,Hypertension,4,32290,1
+1076,18,F,Diabetes,9,17122,0
+1077,25,M,Diabetes,13,27820,1
+1078,80,F,Diabetes,3,5895,0
+1079,28,F,Diabetes,4,8366,1
+1080,25,M,Asthma,7,11711,0
+1081,52,M,Cancer,7,22596,1
+1082,52,M,Heart Disease,12,21793,0
+1083,50,F,Asthma,12,11199,0
+1084,22,M,Asthma,4,13717,0
+1085,58,F,Heart Disease,6,39191,1
+1086,45,F,Heart Disease,12,13211,1
+1087,24,M,Diabetes,13,48550,1
+1088,29,M,Asthma,3,26360,1
+1089,51,F,Hypertension,6,24542,0
+1090,50,F,Heart Disease,12,34312,0
+1091,65,F,Heart Disease,2,48242,0
+1092,40,M,Cancer,8,39435,0
+1093,79,F,Hypertension,2,31247,0
+1094,54,M,Hypertension,11,25357,0
+1095,61,F,Heart Disease,7,44045,0
+1096,52,F,Diabetes,9,30691,0
+1097,82,M,Cancer,1,15424,0
+1098,64,F,Hypertension,8,21852,0
+1099,20,M,Heart Disease,7,25601,1
+1100,18,M,Hypertension,6,21020,1
+1101,22,F,Cancer,6,11155,1
+1102,31,M,Cancer,6,6583,0
+1103,44,M,Asthma,9,18515,0
+1104,26,F,Heart Disease,2,39777,1
+1105,32,M,Cancer,1,22710,0
+1106,59,M,Asthma,13,46178,0
+1107,68,M,Asthma,12,27532,0
+1108,80,F,Hypertension,6,21601,0
+1109,69,M,Hypertension,10,7967,0
+1110,21,F,Asthma,11,21753,0
+1111,40,F,Hypertension,8,23022,0
+1112,32,M,Cancer,3,46463,0
+1113,60,M,Diabetes,12,12135,0
+1114,46,M,Cancer,10,8722,1
+1115,53,F,Asthma,1,30413,0
+1116,30,M,Asthma,9,30236,0
+1117,49,M,Cancer,13,18514,1
+1118,76,M,Hypertension,13,46896,0
+1119,45,M,Hypertension,1,40212,0
+1120,83,M,Asthma,3,43386,0
+1121,59,F,Heart Disease,8,23331,0
+1122,62,F,Hypertension,14,21060,0
+1123,79,M,Cancer,3,4196,1
+1124,74,M,Hypertension,13,15297,0
+1125,23,M,Cancer,4,5787,0
+1126,45,M,Asthma,8,26816,0
+1127,45,F,Hypertension,1,43695,0
+1128,61,M,Cancer,13,22702,0
+1129,47,F,Asthma,13,28242,0
+1130,79,F,Heart Disease,6,5176,0
+1131,79,M,Cancer,1,23127,0
+1132,18,F,Heart Disease,14,44560,0
+1133,44,F,Heart Disease,1,30228,0
+1134,79,F,Diabetes,14,23208,1
+1135,20,F,Hypertension,8,31482,0
+1136,44,M,Cancer,11,12171,0
+1137,26,M,Heart Disease,4,38219,0
+1138,79,F,Diabetes,12,36396,1
+1139,54,M,Asthma,1,45589,0
+1140,68,M,Cancer,10,43546,0
+1141,61,M,Heart Disease,7,6696,1
+1142,41,M,Hypertension,5,23058,1
+1143,76,M,Diabetes,5,23313,0
+1144,49,F,Heart Disease,1,22149,0
+1145,69,M,Hypertension,14,48740,1
+1146,79,M,Heart Disease,10,44075,1
+1147,75,M,Cancer,11,7956,1
+1148,69,M,Cancer,6,13195,0
+1149,29,F,Cancer,14,20076,0
+1150,56,F,Diabetes,9,4105,0
+1151,19,F,Cancer,9,18417,1
+1152,20,F,Hypertension,8,27729,0
+1153,73,M,Heart Disease,5,49956,0
+1154,76,F,Asthma,1,33099,1
+1155,19,M,Hypertension,9,35598,0
+1156,19,M,Hypertension,1,32961,1
+1157,71,M,Cancer,8,15602,0
+1158,18,M,Diabetes,5,12256,0
+1159,36,M,Heart Disease,3,23584,0
+1160,19,F,Diabetes,11,49980,1
+1161,70,F,Heart Disease,7,37681,0
+1162,61,F,Heart Disease,7,28792,0
+1163,49,F,Diabetes,9,24904,1
+1164,49,M,Hypertension,7,46361,0
+1165,85,F,Heart Disease,13,37540,0
+1166,72,M,Diabetes,11,29536,0
+1167,73,F,Heart Disease,14,22164,0
+1168,34,M,Asthma,3,15996,0
+1169,55,M,Hypertension,11,5871,0
+1170,41,F,Cancer,13,49002,0
+1171,28,M,Heart Disease,15,25626,0
+1172,33,M,Asthma,14,13521,0
+1173,76,F,Cancer,13,46410,0
+1174,20,M,Cancer,1,4132,0
+1175,37,F,Heart Disease,8,36467,0
+1176,76,F,Diabetes,12,17534,0
+1177,53,F,Heart Disease,3,26854,0
+1178,36,M,Asthma,12,45998,0
+1179,84,M,Cancer,8,42065,1
+1180,36,M,Heart Disease,8,48607,0
+1181,37,F,Diabetes,13,10812,1
+1182,69,M,Heart Disease,5,7557,1
+1183,50,F,Hypertension,13,5179,0
+1184,57,F,Diabetes,12,46798,0
+1185,56,M,Asthma,13,12065,0
+1186,18,F,Cancer,1,11275,1
+1187,28,M,Heart Disease,13,38948,0
+1188,74,M,Diabetes,10,23700,0
+1189,67,M,Hypertension,7,42464,0
+1190,40,M,Diabetes,12,45351,1
+1191,48,M,Hypertension,10,30794,1
+1192,59,F,Asthma,5,31783,0
+1193,24,F,Cancer,8,19998,0
+1194,33,F,Asthma,9,16869,0
+1195,77,M,Heart Disease,11,47525,0
+1196,19,M,Diabetes,14,31152,1
+1197,18,M,Hypertension,7,23954,0
+1198,65,F,Hypertension,14,34555,0
+1199,29,M,Diabetes,13,19654,0
+1200,54,F,Diabetes,15,48026,1
+1201,49,F,Heart Disease,7,38236,1
+1202,26,M,Asthma,1,49976,0
+1203,36,M,Hypertension,15,18042,1
+1204,65,F,Heart Disease,4,28966,0
+1205,20,M,Asthma,2,47314,0
+1206,37,F,Heart Disease,2,48095,0
+1207,41,M,Hypertension,2,17270,0
+1208,71,M,Diabetes,4,33908,0
+1209,50,F,Diabetes,14,18523,1
+1210,41,M,Asthma,1,22991,0
+1211,53,F,Cancer,15,13775,0
+1212,55,M,Asthma,4,15265,0
+1213,42,F,Cancer,2,22459,0
+1214,35,F,Heart Disease,5,19673,1
+1215,83,M,Heart Disease,3,30056,0
+1216,71,F,Hypertension,15,9614,0
+1217,52,M,Cancer,12,39020,1
+1218,78,M,Hypertension,8,10415,0
+1219,58,M,Diabetes,4,26155,0
+1220,50,F,Cancer,1,46884,0
+1221,85,F,Asthma,1,19964,0
+1222,50,M,Diabetes,12,40726,1
+1223,31,M,Diabetes,10,40044,1
+1224,38,F,Asthma,3,40544,0
+1225,65,M,Diabetes,15,35252,1
+1226,37,M,Cancer,9,6832,0
+1227,25,F,Hypertension,7,28275,0
+1228,24,M,Diabetes,2,17901,0
+1229,84,F,Cancer,15,41213,0
+1230,34,M,Heart Disease,13,37148,0
+1231,50,F,Cancer,9,45633,0
+1232,65,M,Hypertension,10,25918,1
+1233,76,M,Cancer,2,49694,0
+1234,39,F,Asthma,3,22540,0
+1235,47,M,Hypertension,11,14580,0
+1236,55,F,Heart Disease,13,41402,0
+1237,68,M,Asthma,10,41578,0
+1238,71,F,Cancer,14,27917,0
+1239,25,F,Hypertension,2,25318,1
+1240,44,F,Heart Disease,3,13179,0
+1241,44,F,Asthma,6,15251,0
+1242,38,M,Heart Disease,9,48899,0
+1243,47,M,Cancer,9,22493,0
+1244,45,F,Heart Disease,7,23466,0
+1245,81,F,Diabetes,12,33206,1
+1246,78,F,Asthma,3,48475,0
+1247,65,M,Heart Disease,4,22624,0
+1248,36,M,Cancer,6,29564,0
+1249,21,M,Cancer,11,25412,0
+1250,52,M,Heart Disease,5,30990,0
+1251,81,F,Cancer,2,38517,1
+1252,66,F,Hypertension,13,16156,0
+1253,34,F,Hypertension,6,26064,1
+1254,61,M,Hypertension,3,28711,0
+1255,47,M,Diabetes,14,33106,1
+1256,63,M,Heart Disease,8,19589,0
+1257,23,F,Diabetes,2,26736,0
+1258,54,F,Cancer,1,23975,0
+1259,41,M,Diabetes,9,39218,1
+1260,63,F,Cancer,14,10214,0
+1261,70,M,Cancer,12,33581,0
+1262,77,M,Asthma,3,23195,0
+1263,80,F,Hypertension,11,47582,1
+1264,49,M,Cancer,1,30127,0
+1265,50,F,Asthma,7,8141,1
+1266,84,M,Hypertension,13,31884,0
+1267,35,F,Cancer,15,27885,0
+1268,42,F,Cancer,10,5708,0
+1269,71,F,Diabetes,5,21375,1
+1270,75,M,Diabetes,5,18088,0
+1271,84,M,Hypertension,14,47602,1
+1272,63,F,Cancer,1,48046,0
+1273,41,F,Heart Disease,15,13014,0
+1274,49,M,Diabetes,15,6273,0
+1275,64,M,Hypertension,9,40306,0
+1276,40,M,Cancer,7,33881,1
+1277,83,F,Cancer,8,34486,1
+1278,44,M,Heart Disease,9,15541,1
+1279,19,M,Hypertension,6,11712,1
+1280,34,F,Cancer,12,12168,0
+1281,50,M,Diabetes,5,6551,0
+1282,26,M,Heart Disease,6,15297,1
+1283,60,M,Hypertension,11,46733,0
+1284,65,F,Heart Disease,2,30128,1
+1285,56,F,Diabetes,4,5832,1
+1286,59,F,Hypertension,3,31483,0
+1287,43,F,Heart Disease,13,25063,1
+1288,67,F,Asthma,7,25963,0
+1289,42,F,Diabetes,9,16422,0
+1290,41,F,Diabetes,5,35920,0
+1291,30,M,Diabetes,6,14156,0
+1292,77,M,Asthma,10,14108,0
+1293,24,F,Asthma,14,34845,0
+1294,74,M,Cancer,12,5800,1
+1295,53,M,Heart Disease,12,41078,1
+1296,62,F,Cancer,2,45712,0
+1297,37,M,Heart Disease,3,5610,0
+1298,82,M,Asthma,3,15067,1
+1299,25,M,Asthma,12,36872,0
+1300,33,M,Cancer,12,13728,0
+1301,31,M,Hypertension,15,32566,0
+1302,32,F,Cancer,9,32783,0
+1303,83,F,Heart Disease,15,23583,0
+1304,49,F,Cancer,7,23238,1
+1305,80,M,Diabetes,8,10263,0
+1306,68,F,Heart Disease,11,4914,0
+1307,42,M,Heart Disease,10,26749,0
+1308,75,M,Hypertension,11,22456,0
+1309,80,M,Asthma,9,28582,0
+1310,79,M,Heart Disease,6,3406,1
+1311,39,F,Asthma,4,16689,1
+1312,75,F,Cancer,12,35934,0
+1313,75,M,Diabetes,1,36276,1
+1314,66,F,Hypertension,8,39432,1
+1315,69,M,Asthma,7,22873,1
+1316,59,F,Heart Disease,2,16050,0
+1317,32,F,Asthma,8,3680,0
+1318,71,M,Heart Disease,12,21908,0
+1319,77,F,Asthma,5,21504,0
+1320,25,M,Heart Disease,7,24644,0
+1321,70,F,Cancer,4,40125,0
+1322,77,M,Heart Disease,5,4363,1
+1323,22,M,Heart Disease,8,45291,1
+1324,85,F,Diabetes,1,38060,1
+1325,23,F,Heart Disease,1,4538,0
+1326,64,M,Diabetes,15,39176,0
+1327,72,F,Hypertension,4,44520,0
+1328,57,F,Diabetes,3,28675,0
+1329,69,M,Cancer,13,21287,0
+1330,33,M,Diabetes,10,3174,0
+1331,30,F,Hypertension,12,29732,0
+1332,47,M,Cancer,2,37998,1
+1333,36,M,Asthma,12,40055,0
+1334,34,M,Asthma,3,15112,1
+1335,80,F,Diabetes,11,42874,0
+1336,36,F,Diabetes,15,12689,0
+1337,75,M,Hypertension,15,47814,0
+1338,72,F,Hypertension,11,22555,0
+1339,79,M,Heart Disease,14,36919,0
+1340,40,F,Hypertension,11,10619,0
+1341,26,M,Heart Disease,1,9033,0
+1342,29,M,Cancer,1,44328,0
+1343,18,F,Diabetes,6,7946,0
+1344,75,M,Cancer,5,27618,1
+1345,18,F,Hypertension,8,37675,0
+1346,51,F,Cancer,2,39258,1
+1347,65,M,Cancer,4,21919,0
+1348,18,M,Cancer,8,7173,1
+1349,33,F,Hypertension,12,46833,1
+1350,78,M,Cancer,6,29400,0
+1351,81,M,Heart Disease,1,7769,0
+1352,80,M,Hypertension,15,40564,1
+1353,39,M,Cancer,4,48814,0
+1354,84,M,Hypertension,1,17211,0
+1355,43,F,Asthma,13,26255,0
+1356,33,F,Heart Disease,2,30962,1
+1357,68,M,Cancer,5,22356,1
+1358,74,M,Asthma,14,23306,0
+1359,46,M,Asthma,8,7997,0
+1360,64,F,Hypertension,8,20376,0
+1361,79,M,Asthma,11,43880,0
+1362,33,F,Heart Disease,3,41055,1
+1363,65,F,Heart Disease,11,13578,0
+1364,56,F,Diabetes,13,21624,0
+1365,50,M,Heart Disease,4,42194,0
+1366,40,F,Asthma,10,47367,1
+1367,27,M,Heart Disease,11,3389,0
+1368,51,F,Hypertension,14,36767,0
+1369,69,M,Diabetes,6,48580,0
+1370,27,F,Asthma,11,4855,0
+1371,36,M,Diabetes,11,43893,0
+1372,75,F,Asthma,10,16794,0
+1373,18,M,Hypertension,3,38531,0
+1374,21,M,Diabetes,2,7986,1
+1375,33,M,Cancer,6,35298,1
+1376,41,M,Asthma,11,4481,1
+1377,19,F,Cancer,13,6731,0
+1378,49,F,Diabetes,15,19835,1
+1379,41,M,Cancer,5,30798,0
+1380,29,F,Cancer,14,29113,0
+1381,67,M,Diabetes,10,22477,0
+1382,52,M,Hypertension,5,20266,0
+1383,50,F,Cancer,10,23792,0
+1384,50,M,Cancer,13,23452,0
+1385,78,M,Hypertension,5,46526,0
+1386,68,F,Cancer,10,44334,0
+1387,60,M,Cancer,12,14889,0
+1388,29,M,Cancer,5,27335,0
+1389,84,M,Heart Disease,3,14254,0
+1390,82,M,Hypertension,7,24074,1
+1391,50,F,Cancer,6,14442,1
+1392,57,F,Hypertension,4,49289,0
+1393,60,F,Asthma,2,40327,0
+1394,61,M,Asthma,12,19199,0
+1395,46,M,Cancer,9,10291,1
+1396,30,F,Hypertension,1,43928,0
+1397,29,M,Hypertension,13,3112,0
+1398,63,M,Hypertension,13,24515,0
+1399,19,M,Heart Disease,11,22581,0
+1400,52,M,Asthma,15,29500,0
+1401,25,F,Hypertension,14,35026,1
+1402,43,F,Hypertension,4,19523,0
+1403,51,F,Heart Disease,1,4424,0
+1404,24,M,Heart Disease,13,22552,1
+1405,85,F,Hypertension,6,13808,1
+1406,75,F,Diabetes,4,41811,0
+1407,46,M,Hypertension,5,9989,0
+1408,53,M,Hypertension,5,26620,0
+1409,38,F,Heart Disease,9,42029,1
+1410,53,F,Heart Disease,1,3887,0
+1411,27,F,Hypertension,13,34802,1
+1412,41,F,Hypertension,2,22488,0
+1413,81,M,Hypertension,13,33013,0
+1414,66,F,Heart Disease,6,19402,0
+1415,53,F,Hypertension,5,24205,0
+1416,41,M,Hypertension,11,29049,0
+1417,40,F,Cancer,7,15253,0
+1418,79,M,Diabetes,3,21990,0
+1419,54,M,Asthma,3,10846,1
+1420,29,M,Diabetes,10,28027,0
+1421,72,F,Cancer,2,42200,1
+1422,30,F,Asthma,13,49220,0
+1423,40,M,Hypertension,3,49163,0
+1424,47,F,Cancer,10,6765,0
+1425,34,F,Hypertension,1,18950,0
+1426,79,M,Heart Disease,5,48270,1
+1427,30,M,Cancer,14,12741,0
+1428,76,F,Heart Disease,15,25742,0
+1429,36,M,Cancer,12,27703,0
+1430,66,F,Cancer,5,41709,0
+1431,29,F,Heart Disease,12,40623,0
+1432,78,F,Asthma,11,25931,1
+1433,36,F,Diabetes,7,26580,1
+1434,26,M,Hypertension,4,18166,0
+1435,45,M,Cancer,3,32240,0
+1436,69,M,Hypertension,1,28991,0
+1437,33,M,Heart Disease,12,41556,0
+1438,29,F,Hypertension,15,35969,0
+1439,42,F,Heart Disease,8,13561,0
+1440,69,M,Hypertension,13,19901,0
+1441,70,F,Diabetes,3,43505,0
+1442,40,F,Diabetes,13,33020,0
+1443,33,F,Diabetes,15,28917,0
+1444,74,M,Diabetes,2,4988,0
+1445,56,M,Diabetes,11,47505,0
+1446,70,M,Diabetes,4,17256,1
+1447,59,F,Heart Disease,3,25192,0
+1448,75,M,Cancer,13,31230,0
+1449,56,M,Hypertension,1,42930,0
+1450,31,M,Diabetes,3,48833,1
+1451,22,M,Heart Disease,12,25625,0
+1452,52,M,Heart Disease,2,35088,0
+1453,35,M,Heart Disease,8,17114,0
+1454,26,F,Cancer,6,44167,1
+1455,75,F,Hypertension,9,41401,1
+1456,34,M,Cancer,8,8755,0
+1457,24,M,Asthma,10,13825,1
+1458,63,F,Heart Disease,3,25693,1
+1459,30,F,Asthma,5,7117,1
+1460,57,M,Diabetes,7,27729,0
+1461,59,M,Diabetes,5,35182,0
+1462,26,M,Cancer,8,31890,0
+1463,67,M,Hypertension,12,32340,1
+1464,44,F,Asthma,5,4518,0
+1465,83,M,Hypertension,1,33949,0
+1466,22,M,Cancer,5,25547,0
+1467,46,M,Diabetes,4,19346,1
+1468,54,M,Hypertension,6,5600,1
+1469,55,F,Hypertension,3,49005,0
+1470,25,F,Diabetes,15,32267,1
+1471,82,F,Asthma,11,39322,0
+1472,34,M,Diabetes,5,29990,1
+1473,62,M,Hypertension,2,19193,0
+1474,21,F,Asthma,11,33109,0
+1475,53,M,Asthma,6,22233,1
+1476,48,M,Diabetes,13,19194,0
+1477,36,F,Hypertension,15,37510,1
+1478,78,F,Cancer,12,4306,0
+1479,71,F,Hypertension,6,6849,0
+1480,56,F,Heart Disease,5,15360,0
+1481,36,M,Cancer,6,48536,0
+1482,56,M,Asthma,11,32231,0
+1483,84,F,Cancer,7,48800,0
+1484,62,M,Asthma,12,39963,0
+1485,30,F,Asthma,5,21689,0
+1486,75,F,Cancer,1,32084,1
+1487,37,M,Asthma,8,43387,1
+1488,78,F,Asthma,4,12280,0
+1489,56,M,Heart Disease,9,5642,1
+1490,18,M,Hypertension,14,45137,0
+1491,20,M,Hypertension,10,17296,0
+1492,79,M,Heart Disease,12,18438,1
+1493,80,F,Cancer,6,40525,1
+1494,42,M,Diabetes,1,5994,0
+1495,73,F,Diabetes,3,37039,1
+1496,50,F,Diabetes,3,4813,0
+1497,55,F,Heart Disease,10,30491,1
+1498,23,F,Heart Disease,12,21845,0
+1499,75,M,Asthma,12,44243,0
+1500,61,M,Diabetes,4,40164,0
+1501,62,F,Cancer,6,45051,0
+1502,49,F,Cancer,15,16318,0
+1503,62,M,Diabetes,7,20200,1
+1504,78,F,Diabetes,10,3082,0
+1505,64,M,Diabetes,4,4920,0
+1506,38,F,Heart Disease,6,43585,0
+1507,53,M,Heart Disease,11,14683,0
+1508,36,F,Heart Disease,1,14336,0
+1509,37,F,Hypertension,14,18596,0
+1510,74,M,Cancer,8,5093,0
+1511,35,F,Cancer,7,15905,0
+1512,64,F,Asthma,15,27351,0
+1513,66,M,Heart Disease,11,33981,1
+1514,31,F,Hypertension,11,11367,1
+1515,32,M,Hypertension,9,8285,0
+1516,48,M,Cancer,3,46664,0
+1517,18,F,Heart Disease,2,40705,0
+1518,71,F,Asthma,1,19753,0
+1519,20,F,Heart Disease,3,21485,0
+1520,33,F,Diabetes,5,15977,0
+1521,74,F,Heart Disease,14,22874,0
+1522,29,F,Diabetes,11,10674,0
+1523,33,F,Diabetes,2,32038,0
+1524,41,M,Asthma,12,32315,1
+1525,45,F,Cancer,3,6676,1
+1526,25,M,Heart Disease,15,5426,0
+1527,53,F,Diabetes,15,27473,0
+1528,25,F,Heart Disease,15,5962,1
+1529,75,M,Cancer,4,32943,1
+1530,77,F,Cancer,7,3859,0
+1531,67,F,Hypertension,13,47816,0
+1532,45,M,Cancer,3,7138,0
+1533,58,F,Asthma,15,38192,0
+1534,81,F,Diabetes,9,28640,0
+1535,44,F,Hypertension,8,13409,0
+1536,80,M,Asthma,4,7017,0
+1537,34,F,Heart Disease,13,13451,0
+1538,50,F,Diabetes,1,31327,1
+1539,46,F,Cancer,1,13278,0
+1540,30,F,Diabetes,1,27944,0
+1541,63,M,Heart Disease,1,46764,0
+1542,52,M,Hypertension,8,4134,0
+1543,23,F,Hypertension,3,33131,1
+1544,64,F,Hypertension,15,40887,0
+1545,42,M,Cancer,6,41462,0
+1546,83,M,Asthma,3,25520,1
+1547,27,F,Asthma,11,24869,0
+1548,73,M,Diabetes,5,39932,1
+1549,47,F,Cancer,13,8039,0
+1550,22,M,Hypertension,15,24281,0
+1551,50,M,Hypertension,14,13442,0
+1552,82,M,Heart Disease,13,11252,0
+1553,35,M,Heart Disease,15,30586,1
+1554,66,F,Hypertension,7,20568,1
+1555,28,M,Hypertension,2,23810,0
+1556,43,M,Cancer,6,4551,0
+1557,80,F,Asthma,13,15625,1
+1558,76,M,Heart Disease,6,37397,1
+1559,44,M,Asthma,11,29249,0
+1560,66,F,Cancer,3,4361,0
+1561,50,M,Hypertension,6,29149,0
+1562,18,F,Asthma,10,7370,1
+1563,38,F,Hypertension,10,8283,0
+1564,72,F,Hypertension,14,10610,0
+1565,23,F,Diabetes,5,46326,1
+1566,22,M,Asthma,12,17924,0
+1567,20,F,Asthma,2,47717,0
+1568,70,M,Hypertension,9,13626,0
+1569,40,M,Cancer,8,37761,0
+1570,70,M,Diabetes,3,3869,0
+1571,54,M,Hypertension,8,34552,0
+1572,34,M,Heart Disease,14,4014,0
+1573,18,M,Heart Disease,9,13103,0
+1574,68,M,Diabetes,14,19986,1
+1575,62,M,Cancer,15,47781,1
+1576,21,M,Hypertension,3,33471,0
+1577,79,M,Asthma,3,36458,0
+1578,82,F,Diabetes,2,28069,0
+1579,49,F,Cancer,8,19873,0
+1580,51,F,Asthma,10,26248,0
+1581,56,M,Heart Disease,1,26624,0
+1582,43,F,Heart Disease,8,46516,0
+1583,51,F,Asthma,7,32061,0
+1584,71,F,Diabetes,14,27170,0
+1585,20,M,Heart Disease,7,11024,0
+1586,67,M,Hypertension,3,19678,0
+1587,29,M,Asthma,1,41256,0
+1588,82,M,Asthma,4,23411,0
+1589,71,F,Heart Disease,9,46803,1
+1590,22,F,Diabetes,5,22296,1
+1591,74,F,Hypertension,1,29293,0
+1592,34,F,Diabetes,15,30172,0
+1593,64,M,Cancer,5,24128,0
+1594,40,M,Cancer,13,21257,0
+1595,31,M,Heart Disease,8,15855,0
+1596,83,F,Heart Disease,8,22642,1
+1597,68,M,Heart Disease,5,38585,0
+1598,55,M,Cancer,12,23025,1
+1599,81,F,Diabetes,9,7458,0
+1600,55,F,Diabetes,15,8307,0
+1601,67,M,Heart Disease,1,44701,1
+1602,47,M,Hypertension,4,21425,0
+1603,68,M,Diabetes,3,46427,0
+1604,80,M,Cancer,2,31273,0
+1605,69,M,Asthma,15,41506,0
+1606,55,M,Asthma,8,8668,1
+1607,47,F,Asthma,7,28934,0
+1608,68,F,Hypertension,9,10697,1
+1609,22,F,Heart Disease,2,27417,1
+1610,46,M,Cancer,14,19446,1
+1611,21,F,Hypertension,14,43597,0
+1612,27,M,Cancer,4,13751,0
+1613,73,M,Cancer,14,49218,1
+1614,34,F,Heart Disease,15,10352,0
+1615,34,M,Asthma,6,16516,0
+1616,51,M,Heart Disease,11,26299,0
+1617,23,F,Hypertension,3,34957,0
+1618,70,F,Hypertension,8,31927,0
+1619,83,F,Hypertension,3,44094,0
+1620,60,M,Heart Disease,14,39412,0
+1621,40,F,Cancer,12,32493,1
+1622,72,F,Cancer,13,29711,0
+1623,33,M,Diabetes,13,11003,1
+1624,25,F,Hypertension,2,34707,0
+1625,21,F,Cancer,13,6278,1
+1626,21,F,Diabetes,13,10296,0
+1627,73,M,Cancer,3,28398,1
+1628,42,M,Hypertension,11,38842,0
+1629,84,M,Asthma,6,16261,1
+1630,84,M,Hypertension,2,14173,0
+1631,44,F,Heart Disease,8,33449,1
+1632,49,M,Cancer,1,44080,1
+1633,67,M,Cancer,7,4637,0
+1634,78,F,Heart Disease,2,34781,0
+1635,68,F,Heart Disease,10,16652,1
+1636,36,F,Asthma,12,8103,0
+1637,38,M,Cancer,6,28500,1
+1638,22,M,Cancer,12,37800,0
+1639,59,M,Asthma,2,38529,0
+1640,78,F,Diabetes,2,21452,1
+1641,39,F,Asthma,10,34174,0
+1642,38,M,Hypertension,13,38436,1
+1643,18,F,Cancer,8,18954,0
+1644,22,F,Heart Disease,15,20186,0
+1645,29,F,Hypertension,15,15356,0
+1646,63,M,Cancer,12,35963,0
+1647,51,F,Asthma,2,5187,0
+1648,66,F,Hypertension,7,14707,0
+1649,62,M,Cancer,3,38098,0
+1650,44,M,Diabetes,8,29935,0
+1651,43,F,Diabetes,7,24225,1
+1652,64,F,Heart Disease,14,6606,0
+1653,73,M,Cancer,8,35828,0
+1654,80,M,Diabetes,14,29489,0
+1655,65,F,Asthma,7,17387,0
+1656,78,F,Cancer,11,6927,1
+1657,43,F,Asthma,6,9296,0
+1658,53,F,Asthma,13,33444,0
+1659,18,M,Diabetes,7,49390,0
+1660,25,F,Cancer,5,49893,0
+1661,69,F,Hypertension,7,5591,1
+1662,64,M,Diabetes,1,47895,0
+1663,73,F,Diabetes,1,29147,1
+1664,31,M,Cancer,9,41889,0
+1665,45,F,Cancer,14,4200,0
+1666,19,F,Asthma,5,18721,1
+1667,43,M,Cancer,13,22238,0
+1668,31,M,Asthma,5,14087,0
+1669,76,F,Diabetes,3,33816,0
+1670,73,F,Heart Disease,5,26408,0
+1671,24,F,Hypertension,3,42740,0
+1672,20,M,Diabetes,9,3136,0
+1673,40,F,Cancer,9,20413,0
+1674,35,M,Hypertension,6,21978,0
+1675,55,M,Heart Disease,15,3661,0
+1676,32,F,Heart Disease,1,38240,0
+1677,81,M,Asthma,7,30253,0
+1678,45,F,Hypertension,7,29884,0
+1679,56,F,Asthma,14,35854,1
+1680,74,F,Diabetes,10,13704,0
+1681,34,F,Hypertension,10,41987,1
+1682,61,F,Diabetes,4,27527,0
+1683,42,M,Asthma,8,19322,0
+1684,34,M,Hypertension,6,9968,0
+1685,30,F,Asthma,4,30518,0
+1686,42,F,Hypertension,4,49364,0
+1687,85,M,Asthma,2,30886,0
+1688,27,M,Heart Disease,14,4700,0
+1689,84,M,Asthma,2,31246,1
+1690,35,M,Heart Disease,12,38468,0
+1691,51,F,Asthma,14,26199,0
+1692,25,F,Hypertension,4,47589,1
+1693,57,M,Hypertension,5,35115,0
+1694,59,F,Hypertension,8,8520,0
+1695,58,M,Cancer,15,47278,0
+1696,23,F,Diabetes,6,39455,1
+1697,69,M,Hypertension,14,23929,1
+1698,43,F,Heart Disease,15,44605,0
+1699,81,M,Hypertension,4,17955,0
+1700,76,M,Cancer,13,47049,1
+1701,73,F,Heart Disease,11,16917,0
+1702,76,M,Cancer,7,7757,0
+1703,50,F,Heart Disease,8,16045,0
+1704,70,F,Asthma,2,44680,0
+1705,39,M,Diabetes,12,7733,0
+1706,38,F,Diabetes,7,33954,0
+1707,21,F,Cancer,15,34135,0
+1708,79,F,Diabetes,14,10081,0
+1709,79,F,Cancer,2,44458,1
+1710,41,F,Cancer,2,26501,0
+1711,72,M,Cancer,8,24113,0
+1712,26,F,Diabetes,2,37441,0
+1713,20,F,Cancer,15,27690,0
+1714,48,F,Diabetes,11,46939,0
+1715,57,F,Cancer,9,32345,0
+1716,53,F,Hypertension,12,49313,1
+1717,41,M,Cancer,1,47571,1
+1718,23,F,Heart Disease,15,29829,0
+1719,83,M,Cancer,9,38062,0
+1720,21,M,Asthma,15,6630,0
+1721,23,M,Cancer,1,34870,1
+1722,68,M,Heart Disease,10,47942,1
+1723,79,F,Heart Disease,13,6453,0
+1724,74,M,Diabetes,10,40275,0
+1725,83,M,Hypertension,2,46370,1
+1726,25,F,Cancer,6,41396,0
+1727,43,F,Diabetes,6,11328,0
+1728,68,F,Hypertension,1,18534,0
+1729,62,M,Cancer,7,22744,0
+1730,61,F,Asthma,8,22389,1
+1731,22,F,Cancer,2,39320,1
+1732,43,M,Heart Disease,8,38010,0
+1733,85,F,Heart Disease,9,17665,0
+1734,36,F,Asthma,6,40865,0
+1735,37,F,Diabetes,5,11640,0
+1736,29,F,Hypertension,12,37716,0
+1737,64,M,Cancer,9,28521,0
+1738,18,F,Heart Disease,13,33049,0
+1739,31,F,Diabetes,12,8618,0
+1740,81,M,Asthma,11,40004,0
+1741,55,F,Heart Disease,9,4920,0
+1742,54,M,Asthma,1,46937,0
+1743,28,F,Cancer,11,7188,0
+1744,20,M,Hypertension,3,15207,1
+1745,50,M,Heart Disease,9,3238,0
+1746,23,M,Heart Disease,11,35972,0
+1747,67,M,Cancer,2,13799,1
+1748,27,F,Diabetes,12,8552,1
+1749,22,M,Hypertension,4,31916,0
+1750,40,F,Heart Disease,4,7927,1
+1751,27,M,Hypertension,2,30964,0
+1752,61,M,Heart Disease,15,14164,0
+1753,19,M,Hypertension,3,40158,0
+1754,30,F,Asthma,13,22071,0
+1755,57,M,Heart Disease,3,9160,0
+1756,19,F,Hypertension,1,18810,0
+1757,82,F,Diabetes,6,8126,0
+1758,80,F,Asthma,8,33009,0
+1759,34,F,Asthma,12,36584,0
+1760,26,F,Diabetes,3,49182,0
+1761,32,F,Hypertension,5,28396,0
+1762,41,F,Cancer,1,3192,1
+1763,55,F,Diabetes,10,39413,1
+1764,52,F,Hypertension,7,15816,1
+1765,66,M,Diabetes,10,42082,0
+1766,79,M,Diabetes,13,35130,1
+1767,77,M,Heart Disease,1,43142,0
+1768,67,M,Hypertension,12,39468,0
+1769,26,M,Cancer,11,33698,0
+1770,51,F,Heart Disease,9,13655,0
+1771,52,F,Diabetes,8,33075,0
+1772,18,F,Diabetes,7,12359,0
+1773,57,F,Diabetes,10,39661,1
+1774,81,F,Hypertension,15,42579,0
+1775,39,F,Hypertension,7,45056,0
+1776,77,F,Heart Disease,5,36272,1
+1777,81,M,Cancer,5,45581,0
+1778,28,M,Heart Disease,11,17671,0
+1779,31,M,Asthma,13,30048,0
+1780,77,M,Diabetes,5,13738,0
+1781,47,F,Diabetes,1,28963,0
+1782,52,F,Diabetes,8,46954,0
+1783,54,F,Heart Disease,12,9773,0
+1784,22,M,Heart Disease,11,39584,0
+1785,43,F,Diabetes,1,32894,0
+1786,79,F,Heart Disease,4,3717,0
+1787,21,F,Hypertension,15,14676,0
+1788,59,M,Hypertension,9,7434,1
+1789,35,F,Heart Disease,14,40825,0
+1790,57,M,Diabetes,9,32100,0
+1791,56,M,Heart Disease,5,7994,0
+1792,31,M,Heart Disease,4,7234,0
+1793,49,M,Heart Disease,3,6764,0
+1794,68,F,Asthma,3,46949,0
+1795,55,M,Hypertension,12,40405,1
+1796,40,M,Cancer,5,37872,1
+1797,80,F,Cancer,10,45215,0
+1798,32,F,Asthma,1,26185,1
+1799,42,M,Heart Disease,5,46442,0
+1800,34,F,Asthma,6,44153,0
+1801,83,M,Asthma,7,14999,0
+1802,70,M,Diabetes,12,39487,0
+1803,68,M,Hypertension,9,5581,1
+1804,56,M,Cancer,3,5763,0
+1805,68,F,Heart Disease,15,30374,0
+1806,23,M,Cancer,2,41759,1
+1807,84,F,Cancer,14,13531,0
+1808,24,F,Hypertension,3,28307,0
+1809,68,F,Cancer,12,33835,0
+1810,59,F,Cancer,9,14064,1
+1811,81,M,Asthma,12,14312,1
+1812,32,F,Hypertension,7,40548,0
+1813,46,M,Diabetes,9,39945,0
+1814,50,F,Heart Disease,13,9476,0
+1815,44,F,Cancer,2,27565,1
+1816,53,M,Heart Disease,5,5382,0
+1817,46,M,Diabetes,13,25463,0
+1818,55,M,Heart Disease,4,48276,1
+1819,74,F,Diabetes,15,36402,0
+1820,44,F,Asthma,2,29345,0
+1821,72,M,Cancer,9,47764,0
+1822,50,M,Diabetes,9,29946,1
+1823,85,M,Heart Disease,6,17162,0
+1824,83,M,Cancer,11,49773,0
+1825,27,F,Asthma,6,11397,0
+1826,22,M,Cancer,8,25335,0
+1827,55,M,Diabetes,6,48095,0
+1828,30,M,Asthma,1,17394,0
+1829,48,M,Heart Disease,4,30197,1
+1830,64,F,Asthma,13,25010,0
+1831,69,M,Asthma,7,27123,0
+1832,73,F,Hypertension,13,25387,0
+1833,32,M,Asthma,13,5890,0
+1834,46,M,Asthma,2,30769,1
+1835,25,F,Cancer,9,46626,0
+1836,22,M,Heart Disease,8,11026,0
+1837,46,F,Cancer,8,6306,0
+1838,64,F,Cancer,7,36665,0
+1839,85,M,Diabetes,4,12277,0
+1840,62,F,Cancer,2,45239,0
+1841,19,F,Hypertension,3,17683,1
+1842,44,F,Hypertension,12,3670,1
+1843,53,F,Diabetes,6,26675,0
+1844,53,F,Heart Disease,12,20889,1
+1845,43,F,Heart Disease,12,47535,0
+1846,60,F,Cancer,5,16006,0
+1847,44,F,Cancer,12,29531,0
+1848,37,M,Cancer,8,24639,0
+1849,28,M,Heart Disease,6,19633,0
+1850,55,F,Asthma,6,37660,0
+1851,23,M,Hypertension,1,6439,0
+1852,40,F,Asthma,4,35172,0
+1853,64,F,Asthma,5,38622,0
+1854,63,M,Heart Disease,12,14577,1
+1855,29,F,Asthma,11,14763,0
+1856,30,F,Diabetes,3,23176,0
+1857,79,F,Cancer,13,47386,0
+1858,77,F,Diabetes,9,27255,0
+1859,60,M,Hypertension,1,44003,1
+1860,85,F,Cancer,6,22996,0
+1861,22,F,Asthma,6,38386,0
+1862,54,F,Hypertension,10,24062,1
+1863,48,M,Cancer,5,38931,0
+1864,26,F,Asthma,12,38710,0
+1865,68,M,Diabetes,15,37693,0
+1866,46,M,Cancer,5,38740,1
+1867,57,F,Asthma,10,14705,0
+1868,58,F,Diabetes,14,46408,0
+1869,28,M,Hypertension,13,31047,0
+1870,40,F,Hypertension,5,13966,0
+1871,18,M,Hypertension,6,20374,0
+1872,63,M,Hypertension,8,14138,0
+1873,38,F,Heart Disease,2,18935,0
+1874,53,F,Cancer,6,48913,1
+1875,71,M,Cancer,1,3489,1
+1876,74,M,Heart Disease,4,47516,0
+1877,18,M,Asthma,14,25260,1
+1878,80,M,Asthma,10,29069,0
+1879,71,F,Hypertension,3,22275,0
+1880,72,F,Diabetes,9,39284,0
+1881,57,F,Asthma,3,42178,1
+1882,32,F,Diabetes,15,35821,1
+1883,38,F,Cancer,6,19999,0
+1884,64,M,Diabetes,1,41712,1
+1885,70,F,Cancer,12,43172,0
+1886,26,F,Heart Disease,6,36722,1
+1887,69,F,Heart Disease,4,13625,1
+1888,74,F,Hypertension,8,4629,0
+1889,43,F,Asthma,13,13973,1
+1890,58,M,Hypertension,11,9859,0
+1891,52,M,Cancer,9,44609,0
+1892,80,M,Hypertension,4,46307,0
+1893,42,F,Diabetes,10,48450,0
+1894,55,M,Cancer,12,39046,1
+1895,19,M,Heart Disease,10,24839,0
+1896,24,F,Asthma,6,30216,0
+1897,51,F,Cancer,1,21945,1
+1898,34,F,Cancer,4,9539,1
+1899,60,M,Diabetes,7,36625,0
+1900,76,M,Asthma,12,7886,1
+1901,68,F,Heart Disease,15,48713,0
+1902,71,F,Cancer,1,10485,1
+1903,41,M,Cancer,8,34455,0
+1904,42,M,Diabetes,12,49448,0
+1905,69,F,Hypertension,10,19767,0
+1906,50,F,Heart Disease,12,31453,0
+1907,66,M,Asthma,11,13744,0
+1908,46,F,Cancer,6,40102,0
+1909,80,M,Cancer,5,15226,0
+1910,39,M,Heart Disease,10,30869,1
+1911,43,M,Hypertension,11,25588,0
+1912,45,M,Cancer,15,16440,0
+1913,66,F,Heart Disease,14,34709,0
+1914,66,F,Diabetes,9,25495,0
+1915,37,M,Hypertension,2,40019,1
+1916,80,M,Asthma,5,47948,1
+1917,78,M,Cancer,6,3922,0
+1918,66,M,Heart Disease,7,30526,0
+1919,18,M,Diabetes,5,10957,1
+1920,30,F,Asthma,9,36998,0
+1921,68,F,Heart Disease,1,46395,1
+1922,73,F,Heart Disease,7,27031,0
+1923,79,F,Asthma,10,13006,1
+1924,49,M,Diabetes,7,40701,0
+1925,47,M,Diabetes,4,28939,0
+1926,46,M,Hypertension,9,23324,1
+1927,66,M,Cancer,14,25867,0
+1928,62,M,Asthma,12,3203,0
+1929,47,F,Asthma,11,19544,0
+1930,33,M,Asthma,5,18899,0
+1931,57,F,Diabetes,4,32063,0
+1932,36,F,Cancer,13,28344,0
+1933,35,F,Hypertension,7,6748,0
+1934,18,F,Heart Disease,4,42486,0
+1935,64,M,Heart Disease,15,4093,1
+1936,83,F,Asthma,3,18228,0
+1937,55,F,Cancer,9,23884,0
+1938,68,F,Diabetes,11,28183,0
+1939,80,M,Cancer,8,19034,0
+1940,21,M,Cancer,1,8710,0
+1941,18,M,Diabetes,7,45500,0
+1942,25,F,Asthma,9,22259,0
+1943,46,F,Cancer,8,38959,0
+1944,72,M,Heart Disease,8,36457,0
+1945,20,F,Diabetes,13,23143,0
+1946,49,M,Hypertension,6,5103,0
+1947,27,M,Asthma,11,3365,0
+1948,51,F,Diabetes,4,49778,0
+1949,72,F,Hypertension,8,47535,0
+1950,49,F,Hypertension,3,19103,1
+1951,67,F,Cancer,13,35510,0
+1952,24,M,Cancer,9,27476,0
+1953,25,M,Cancer,13,15742,0
+1954,82,M,Diabetes,2,15391,0
+1955,74,M,Diabetes,2,39940,0
+1956,84,M,Asthma,12,31901,0
+1957,76,F,Cancer,13,35001,1
+1958,71,M,Hypertension,15,18623,0
+1959,84,M,Heart Disease,12,5378,1
+1960,68,M,Asthma,7,24372,0
+1961,25,F,Diabetes,12,47799,0
+1962,51,F,Asthma,10,41437,0
+1963,52,F,Asthma,4,38503,0
+1964,49,F,Asthma,10,33746,0
+1965,63,M,Asthma,8,30923,0
+1966,33,M,Heart Disease,9,12867,0
+1967,85,F,Cancer,7,44258,1
+1968,54,F,Hypertension,5,36724,1
+1969,71,M,Asthma,8,12306,0
+1970,31,M,Asthma,4,42391,0
+1971,72,F,Asthma,2,17908,0
+1972,65,F,Cancer,11,30081,0
+1973,24,F,Diabetes,15,40228,0
+1974,24,F,Diabetes,12,26386,0
+1975,50,M,Heart Disease,6,49754,0
+1976,40,M,Diabetes,9,48406,0
+1977,36,M,Asthma,1,31302,1
+1978,36,F,Asthma,11,22212,0
+1979,53,F,Asthma,10,38618,1
+1980,46,M,Heart Disease,12,49067,0
+1981,77,M,Asthma,7,13698,0
+1982,19,M,Diabetes,10,7594,0
+1983,18,M,Cancer,9,28525,0
+1984,64,F,Cancer,10,17282,0
+1985,37,M,Hypertension,9,17334,0
+1986,28,M,Diabetes,10,32179,0
+1987,19,M,Asthma,11,9644,0
+1988,84,M,Cancer,13,38618,0
+1989,29,M,Diabetes,3,35933,0
+1990,37,M,Cancer,11,46469,0
+1991,22,M,Asthma,13,36687,0
+1992,54,F,Cancer,5,44073,0
+1993,55,F,Hypertension,8,20375,0
+1994,26,F,Hypertension,8,33926,1
+1995,70,F,Cancer,4,39607,0
+1996,61,M,Diabetes,15,20642,1
+1997,41,F,Diabetes,15,26993,0
+1998,47,F,Diabetes,12,47386,0
+1999,76,M,Cancer,11,49287,0
+2000,31,M,Diabetes,11,24188,0
